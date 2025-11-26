@@ -1,5 +1,23 @@
 # Social Tech & Portraits Website
 
+## Built with Google Antigravity
+
+This project was collaboratively built using Google Antigravity, an advanced agentic coding assistant. The development process was driven by natural language prompts, allowing for rapid iteration and refinement.
+
+### Prompt History
+
+The following prompts were used to guide the creation and evolution of this project:
+
+1.  **Initial Concept**: "Create a personal website for me. It needs to be a mix of 'Social Tech' and 'Portraits'. I want a landing page that shows off my tech side but also has a gallery of my portraits."
+2.  **Image Customization**: "The images are still bad. Can I upload images to be used"
+3.  **Debugging**: "I renamed them but the one image is broken now"
+4.  **Project Restructuring**: "Please move the code to the root of the project."
+5.  **Documentation**: "Please create a README.md file with details about how this project was created"
+
+---
+
+## Project Description
+
 This project is a personal website combining a "Social Tech" aesthetic with a professional portrait gallery. It was created to showcase a dual persona: "The Professional" and "The Creative".
 
 ## Project Creation
